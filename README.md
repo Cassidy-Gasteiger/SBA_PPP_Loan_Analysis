@@ -2,11 +2,7 @@
 Analysis of Georgia's SBA PPP loans and pandemic impacts on labor market
 
 Presentation Files  
-•	Final Presentation: Final presentation file shared with the client (Acorns).
-
-Visualization Files  
-•	Charts&Maps. Power BI Dashboard containing maps and visualizations for our presentation and analysis. As an interactive dashboard, this can be used to further explore relationships between variables.  
-•	Unemployment Chart: Tableau graph plotting job loss by county over time.  
+•	Final Presentation: Final presentation file shared with the client (Acorns).  
 
 Data Files  
 •	Labor_Time_Series: Contains socioeconomic and labor variables as time series for visualizing, plotting, and understanding labor impacts over time.  
